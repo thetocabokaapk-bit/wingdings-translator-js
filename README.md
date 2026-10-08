@@ -40,5 +40,6 @@ console.log(encodeToWingdings("HI")); // Output: ✋☺
 - **Virtual Keyboard:** [Wingdings Keyboard Tool](https://wingding-translator.com/wingdings-keyboard/)
 - **Image Scanner:** [Wingdings Translator from Image](https://wingding-translator.com/wingdings-translator-from-image/)
 
-**License**
+## 📄 License
+
 This project is open-source and free to use under the MIT License.
