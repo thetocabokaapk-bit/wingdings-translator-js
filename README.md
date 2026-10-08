@@ -30,17 +30,12 @@ function encodeToWingdings(text) {
 }
 
 console.log(encodeToWingdings("HI")); // Output: ✋☺
-🌐 Official Web Tools
-## 🌐 Official Web Tools
 
-- **Main Tool:** [English to Wingdings Translator](https://wingding-translator.com/)
-- **Undertale / Lore:** [W.D. Gaster Font Decoder](https://wingding-translator.com/w-d-gaster-translator-undertale-wingdings-decoder/)
-- **Image Scanner:** [Wingdings Translator from Image](https://wingding-translator.com/wingdings-translator-from-image/)
-- **Gaming:** [Wingdings Font for Minecraft](https://wingding-translator.com/wingdings-font-for-minecraft/)
+
 Main Tool: English to Wingdings Translator
 Undertale / Lore: W.D. Gaster Font Decoder
 Image Scanner: Wingdings Translator from Image
 Gaming: Wingdings Font for Minecraft
-📄 License
+
 
 This project is open-source and free to use under the MIT License.
