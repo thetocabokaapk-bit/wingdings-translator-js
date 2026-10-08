@@ -29,7 +29,7 @@ function encodeToWingdings(text) {
   return text.toUpperCase().split('').map(char => wingdingsMap[char] || char).join('');
 }
 
-console.log(encodeToWingdings("HI")); // Output: ✋☺ ```
+console.log(encodeToWingdings("HI")); // Output: ✋☺```
 
 
 Main Tool: English to Wingdings Translator
