@@ -39,5 +39,6 @@ console.log(encodeToWingdings("HI")); // Output: ✋☺
 - **Undertale / Lore:** [W.D. Gaster Font Decoder](https://wingding-translator.com/w-d-gaster-translator-undertale-wingdings-decoder/)
 - **Virtual Keyboard:** [Wingdings Keyboard Tool](https://wingding-translator.com/wingdings-keyboard/)
 - **Image Scanner:** [Wingdings Translator from Image](https://wingding-translator.com/wingdings-translator-from-image/)
- License
+
+**License**
 This project is open-source and free to use under the MIT License.
